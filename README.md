@@ -11,4 +11,9 @@
 5. firefox --> ctrl+i
 6. the viewport matter: device-width, mobile, and web
 
------------------
+**HTTP-server** 모듈 전역 설치
+
+'''sh
+#MacOS 사용자는 명령어 앞에 SUDO라고 붙인 후에 설치 진행
+npm install --global http-server
+'''sh
