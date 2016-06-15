@@ -7,5 +7,8 @@
 1. the language Markdown
 2. Github
 3. Saving project on Sublime
+4. Chrome --> document.compatMode
+5. firefox --> ctrl+i
+6. the viewport matter: device-width, mobile, and web
 
 -----------------
